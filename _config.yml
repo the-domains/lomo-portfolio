@@ -1,0 +1,14 @@
+layout_spectrum: 0.9009920738171786
+typography_spectrum: 0.9648368095513433
+color:
+  brandStrength: 0.10557423857972026
+  lightness: 0.5177014002110809
+  saturation: 0.16357031161896884
+  rhythmicContrast: 0.11048654140904546
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+name: LoMo Portfolio
