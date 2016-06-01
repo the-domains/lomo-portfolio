@@ -1,14 +1,29 @@
+name: LoMo Portfolio
+favicon: null
 layout_spectrum: 0.9009920738171786
 typography_spectrum: 0.9648368095513433
+title: 'My randomness '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
 color:
-  brandStrength: 0.10557423857972026
-  lightness: 0.5177014002110809
-  saturation: 0.16357031161896884
-  rhythmicContrast: 0.11048654140904546
   brandColors:
     - '#000000'
     - '#263248'
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-name: LoMo Portfolio
+  brandStrength: 0.10557423857972026
+  lightness: 0.5177014002110809
+  saturation: 0.16357031161896884
+  rhythmicContrast: 0.11048654140904546
+purpose: []
