@@ -1,29 +1,41 @@
-name: Lorenzo Morales Jr
-favicon: null
-layout_spectrum: 0.9009920738171786
-typography_spectrum: 0.2513
 title: 'My randomness '
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5494092
+  brandStrength: 0.1055742385797203
+  lightness: 0.4312567
   brandColors:
     - '#000000'
     - '#263248'
     - '#7E8AA2'
     - '#FFFFFF'
     - '#FF9800'
-  brandStrength: 0.10557423857972026
-  lightness: 0.5177014002110809
-  saturation: 0.16357031161896884
-  rhythmicContrast: 0.11048654140904546
-purpose: []
+  rhythmicContrast: 0.689044
+cta:
+  bucket: null
+  version: null
+  domain: null
+favicon: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: Lorenzo Morales Jr
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.7803437
+layout_spectrum: 0.4709989
